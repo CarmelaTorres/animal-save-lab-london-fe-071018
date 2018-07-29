@@ -9,7 +9,4 @@ html {
 }
 
 /* Write your solution here */
-@media only screen and (min-width:800px, max-width: 1196px) {
-  p {
-    color: green;
-
+@media only screen and (min-width:800px, max-width: 1196px) 
